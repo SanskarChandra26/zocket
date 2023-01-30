@@ -1,0 +1,31 @@
+[{
+    "name":"Blueberry cake with raw toppings",
+    "amount":"2,290",
+    "img":"./blueberry.png"
+},
+{
+    "name":"Chocolate trufle cake",
+    "amount":"2,190",
+    "img":"./ct.png"
+},
+{
+    "name":"Browny cake with fluffy cream",
+    "amount":"1,222",
+    "img":"./brownie_cake.png"
+},
+{
+    "name":"Ferro rocher cake",
+    "amount":"1,234",
+    "img":"./ferrero.png"
+},
+{
+    "name":"Custurd  mixed with fruit cake",
+    "amount":"2,456",
+    "img":"./customer_mix.png"
+},
+{
+    "name":"Best raw toppings choco cake",
+    "amount":"2,345s",
+    "img":"./choco_cake.png"
+}
+] 
